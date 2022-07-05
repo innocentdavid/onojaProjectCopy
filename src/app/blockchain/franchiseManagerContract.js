@@ -1,0 +1,2 @@
+const franchiseManagerAddress = '0xE259B7530e2D1bbE96Ebb186E4f50d2dD2831cf0';
+export default franchiseManagerAddress;
